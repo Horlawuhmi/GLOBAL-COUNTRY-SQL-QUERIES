@@ -41,3 +41,5 @@ ORDER BY Birth_rate desc, Infant_mortality desc;
 SELECT country, fertility_rate
 FROM world_data
 ORDER BY Fertility_rate desc;
+
+Link to full documentation: https://medium.com/@skychristie114/world-atlas-insights-a-visual-exploration-of-global-nations-53f74eeb1479
