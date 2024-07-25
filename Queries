@@ -2,7 +2,7 @@
 SELECT Country, COUNT(*)
 FROM world_data
 GROUP BY country
-HAVING COUNT(*) > 1;
+HAVING COUNT(*) > 1; 
 
 ---- countries with the largest population--
 SELECT Country, population, Largest_city
