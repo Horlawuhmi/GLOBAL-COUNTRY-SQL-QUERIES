@@ -1,6 +1,8 @@
 # GLOBAL-COUNTRY-SQL-QUERIES
 
 MySQL Queries for the global country information data.
+
+
 -- check for duplicates--
 SELECT Country, COUNT(*)
 FROM world_data
